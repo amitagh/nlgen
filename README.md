@@ -16,6 +16,8 @@ Some Websites block article collection, in that case no articles will be collect
 
 A html formatted Newsletter will be generated and displayed. You can copy and paste generated newsletter in a mail, word doc or on linkedin. 
 
+An Example of a generated Newsletter is at [link](https://www.linkedin.com/pulse/ai-insights-25th-june-2024-amit-ghadge-9v3gf).
+
 Further improvements and finetuning is being done. Customizations and tuning can be further done as needed.
 
 For any feedback or suggestion please email to amitagh@gmail.com.
