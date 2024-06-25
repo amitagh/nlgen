@@ -1,7 +1,7 @@
 ![NLGen - A fully automated AI based NewsLetter Generator](NLGen-Logo.png)
 # NLGen - A fully automated AI based NewsLetter Generator
 Welcome to NLGen: Tool to generate a Newsletter with categorised articles sourced from the given website links for a given topic.
-Tool Link: [Link](https://huggingface.co/spaces/amitagh/NL-Gen-Public)
+Tool Link: [Link](https://amitagh-nl-gen-public.hf.space)
 
 It takes following inputs:
 * Name: Name for the Newsletter you want to generate.
