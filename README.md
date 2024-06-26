@@ -3,6 +3,10 @@
 Welcome to NLGen: Tool to generate a Newsletter with categorised articles sourced from the given website links for a given topic.
 Tool Link: [Link](https://amitagh-nl-gen-public.hf.space)
 
+## Target audience:
+* Newsletter Creators.
+* Individuals needing to get  consolidated view industry updates.
+
 It takes following inputs:
 * Name: Name for the Newsletter you want to generate.
 * Topic: Topic for the Newsletter you want to generate. For eg. AI Tech news or Telecom/Mobility news and so on.
